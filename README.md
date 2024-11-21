@@ -1,6 +1,6 @@
 # Instacart Grocery: Customer Behavior Analysis
 ## Project Summary
-This repository provides an in-depth exploratory analysis of Instacart's sales data, focusing on uncovering key customer purchasing patterns. As an analyst for Instacart, the goal is to derive actionable insights that will inform targeted marketing strategies. The analysis addresses critical questions from the sales and marketing teams, including identifying the busiest days and hours for orders, understanding spending patterns, and exploring product popularity by department. Additionally, the project delves into customer segmentation, examining differences in behavior by brand loyalty, region, age, income, and family status. These insights will help Instacart tailor marketing campaigns to more effectively engage diverse customer profiles, boost sales, and enhance the relevance of promotions and ads.
+This repository offers an exploratory analysis of Instacart's sales data to uncover customer purchasing patterns. By collaborating with sales and marketing teams, I translate their questions into data analysis—identifying peak ordering times, spending habits, and product popularity—to provide actionable insights. The project also examines customer segmentation across various demographics to inform targeted marketing strategies and enhance campaign effectiveness.
 
 ## Key Questions
 • What are the busiest days of the week and hours of the day?
